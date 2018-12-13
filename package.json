@@ -1,0 +1,27 @@
+{
+  "name": "alexa-custom-skill-who-got-engaged",
+  "version": "1.0.0",
+  "description": "A simple Alexa skill that responds to the question Who got engaged? with custom names and dates.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariuslazar93/alexa-custom-skill-who-got-engaged.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "nodejs"
+  ],
+  "author": "Marius Lazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariuslazar93/alexa-custom-skill-who-got-engaged/issues"
+  },
+  "homepage": "https://github.com/mariuslazar93/alexa-custom-skill-who-got-engaged#readme",
+  "dependencies": {
+    "ask-sdk": "^2.3.0"
+  }
+}
